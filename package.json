@@ -1,7 +1,7 @@
 {
   "name": "chakram-cucumber",
   "version": "1.0.0",
-  "description": "Chakram is an API testing framework designed to test JSON REST endpoints. The library offers a BDD testing style and fully exploits javascript promises",
+  "description": "chakram-cucumber is an fork of chakram package. It was modified to work with cucumber runner. Chakram is API testing framework designed to test JSON REST endpoints. The library offers a BDD testing style and fully exploits javascript promises",
   "main": "lib/chakram.js",
   "license": "MIT",
   "contributors": [
@@ -14,7 +14,9 @@
       "name": "Harry Rose"
     },
     {
-      "name": "Marcin Zietara"
+      "name": "Marcin Zietara",
+      "email": "marcin.zietara@outlook.com",
+      "url": "https://github.com/f41c0n"
     }
   ],
   "repository": {

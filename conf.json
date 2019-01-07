@@ -1,9 +1,9 @@
 {
 	"templates": {
-	    "applicationName": "Chakram",
+	    "applicationName": "chakram-cucumber",
 	    "meta": {
-		    "title": "Chakram: BDD REST API test tool",
-		    "description": "Chakram: BDD REST API test tool",
+		    "title": "chakram-cucumber: BDD REST API test tool",
+		    "description": "chakram-cucumber: BDD REST API test tool",
 		    "keyword": "E2E REST API JSON chai mocha nodejs test BDD"
 	    },
 	    "linenums": false
