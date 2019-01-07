@@ -1,5 +1,5 @@
 {
-  "name": "chakram",
+  "name": "chakram-cucumber",
   "version": "1.0.0",
   "description": "Chakram is an API testing framework designed to test JSON REST endpoints. The library offers a BDD testing style and fully exploits javascript promises",
   "main": "lib/chakram.js",
@@ -19,7 +19,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/f41c0n/chakram"
+    "url": "https://github.com/f41c0n/chakram-cucumber"
   },
   "keywords": [
     "test",
