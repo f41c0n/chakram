@@ -129,15 +129,8 @@ Chakram exposes three promise related methods:
  - [waitFor](http://dareid.github.io/chakram/jsdoc/module-chakram.html#.waitFor), which takes an array of promises and returns a promise which is fulfilled once all promises in the provided array are fulfilled.  This is similar to chakram.all, except it is fulfilled with the fulfillment value of the last promise in the provided array.
 
 ### Running Tests
-To run Chakram tests, install the Mocha testing framework globally (or as a dev dependency):
-```
-npm install -g mocha
-```
-Once installed, run the tests using the [Mocha command line](http://mochajs.org/#usage), which in its simplest form is:
-```
-mocha path/to/tests
-```
-Test results can be exported in multiple formats, Mocha's builtin formats are described [here](http://mochajs.org/#reporters) and export plugins for Mocha are available on NPM.
+
+**TODO**
 
 ### Adding Assertions
 

@@ -1,6 +1,6 @@
 {
   "name": "chakram",
-  "version": "1.5.0",
+  "version": "1.0.0",
   "description": "Chakram is an API testing framework designed to test JSON REST endpoints. The library offers a BDD testing style and fully exploits javascript promises",
   "main": "lib/chakram.js",
   "license": "MIT",
@@ -12,11 +12,14 @@
     },
     {
       "name": "Harry Rose"
+    },
+    {
+      "name": "Marcin Zietara"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/dareid/chakram"
+    "url": "https://github.com/f41c0n/chakram"
   },
   "keywords": [
     "test",
@@ -24,7 +27,6 @@
     "REST",
     "HTTP",
     "JSON",
-    "mocha",
     "chai",
     "BDD"
   ],
